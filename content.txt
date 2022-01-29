@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 #include <stdio.h> int main{}
+=======
+#include <stdio.h>
+>>>>>>> 85d4085 (C-library)
